@@ -1,2 +1,3 @@
 cornflakes
 milk
+sugar (optional)
