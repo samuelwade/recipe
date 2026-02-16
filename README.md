@@ -2,6 +2,7 @@
 
 Recipe for *Flocons de maïs en bain de lait frais de la ferme, servis dans un bol artisanal*.
 
+![image](recipe.jpg)
 
 ### Legal and Other Notes
 
